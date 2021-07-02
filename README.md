@@ -56,4 +56,11 @@ In this exercise we demonstrate how to implement nesting classes in a Java progr
 
 ![Alt text](http://i.imgur.com/i6OTwg2.png?raw=true "JavaHome")
 
+**Exercise 4**
 
+In this exercise we have a project in which there is an API of methods that manipulate the behavior of a Robot. The code that generates the connection is lower-level and encapsulated in an interface. This is only available to be called within the interface. There are also higher-level methods that define the behavior of the robot and are available to be called from where an instance / object of it is being generated. The question is: What are the concepts that we are applying when having available layers and others not available in my project?
+
+Answer: 
+1. Encapsulation = since the interface is pre-defining a part of the behavior of the classes that implement it, as it already has low-level code.
+2. Polymorphism = although the interface has a part of the behavior defined, it also can be implemented by several classes that defined the behavior.
+3. Modularity = as it allows defining behaviors by the layers of high-level methods and low-level methods.
