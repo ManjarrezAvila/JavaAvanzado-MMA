@@ -10,7 +10,7 @@ import amazonviewer.model.Chapter;
 import amazonviewer.model.Magazine;
 import amazonviewer.model.Movie;
 import amazonviewer.model.Serie;
-import makereport.Report;
+import amazonviewer.makereport.Report;
 import util.AmazonUtil;
 
 public class Main {
