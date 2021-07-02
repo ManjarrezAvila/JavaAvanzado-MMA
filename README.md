@@ -29,3 +29,14 @@ This exercise was about a program that draws figures automatically. It has an ab
 **Exercise 1 Output**
 
 ![Alt text](http://i.imgur.com/Jh7PXFF.png?raw=true "JavaHome")
+
+**Exercise 2**
+
+This exercise ask you use the tags for the documentation of the Report library
+
+1. You can open the file *Report.java* inside this directory *JavaAvanzado-MMA\AmazonViewer\src\amazonviewer\makereport\Report.java*
+
+
+**Exercise 2 Output**
+
+![Alt text](http://i.imgur.com/3CUUY5G.png?raw=true "JavaHome")
